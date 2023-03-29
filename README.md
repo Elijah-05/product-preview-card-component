@@ -24,8 +24,8 @@ This is my code solution to the [product preview component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Solution Code File](https://github.com/Elijah-05/product-preview-card-component-solution)
-- Live Site URL: [Solution Preview](https://elijah-05.github.io/Results-summary-component-solution/)
+- Solution URL: [Solution Code File](https://github.com/Elijah-05/product-preview-card-component)
+- Live Site URL: [Solution Preview](https://elijah-05.github.io/product-preview-card-component/)
 
 ## My process
 
